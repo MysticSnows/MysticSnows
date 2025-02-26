@@ -88,10 +88,3 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devik" height="30" width="40" />
   </a>
 </p>
-
----
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mysticsnows&label=Profile%20views&color=0e75b6&style=flat" alt="mysticsnows" />
-</p>
-
